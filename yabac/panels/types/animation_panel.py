@@ -34,10 +34,10 @@ class AnimationPanel(BasePanel):
                 'Unknown (0x8)'
             ], True),
             ('Animation Options #4', [
-                'Follow on X Axis',
-                'Follow on Y Axis',
-                "Follow on Z Axis",
-                'Unknown (0x8)'
+                'Camera Follows X Axis',
+                'Camera Follows Y Axis',
+                "Camera Follows Z Axis",
+                'Camera Swaps POV (Grab Only)'
             ], True)
         ])
 
